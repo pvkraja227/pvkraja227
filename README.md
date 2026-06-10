@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**pvkraja227/pvkraja227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 * 🔭 I’m currently working on CI/CD automation, Kubernetes deployments, and cloud infrastructure management on AWS.
 
 * 🌱 I’m currently learning advanced Site Reliability Engineering (SRE) practices, GitOps, Platform Engineering, and Cloud Security.
@@ -20,5 +15,3 @@ Here are some ideas to get you started:
 * 😄 Pronouns: He/Him
 
 * ⚡ Fun fact: I enjoy automating repetitive tasks and reducing deployment time through efficient DevOps practices.
-
--->
